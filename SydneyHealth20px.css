@@ -1,0 +1,6 @@
+#liveForm .mobile-form-revamp.mobile-wcag-support neb-rating .neb-rating.stars .neb-rating-value:not(:nth-child(5)){
+    margin-right: 20px !important;
+}
+#liveForm .mobile-form-revamp .neb-rating .edge-labels{
+    width: 100%;
+}
